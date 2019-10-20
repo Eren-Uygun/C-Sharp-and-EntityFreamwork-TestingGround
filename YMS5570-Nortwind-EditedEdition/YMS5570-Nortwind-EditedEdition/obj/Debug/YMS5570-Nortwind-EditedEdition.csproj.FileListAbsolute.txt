@@ -1,0 +1,14 @@
+C:\Projects\YMS5570-Nortwind-EditedEdition\YMS5570-Nortwind-EditedEdition\bin\Debug\YMS5570-Nortwind-EditedEdition.exe.config
+C:\Projects\YMS5570-Nortwind-EditedEdition\YMS5570-Nortwind-EditedEdition\bin\Debug\YMS5570-Nortwind-EditedEdition.exe
+C:\Projects\YMS5570-Nortwind-EditedEdition\YMS5570-Nortwind-EditedEdition\bin\Debug\YMS5570-Nortwind-EditedEdition.pdb
+C:\Projects\YMS5570-Nortwind-EditedEdition\YMS5570-Nortwind-EditedEdition\obj\Debug\YMS5570_Nortwind_EditedEdition.Properties.Resources.resources
+C:\Projects\YMS5570-Nortwind-EditedEdition\YMS5570-Nortwind-EditedEdition\obj\Debug\YMS5570-Nortwind-EditedEdition.csproj.GenerateResource.cache
+C:\Projects\YMS5570-Nortwind-EditedEdition\YMS5570-Nortwind-EditedEdition\obj\Debug\YMS5570-Nortwind-EditedEdition.exe
+C:\Projects\YMS5570-Nortwind-EditedEdition\YMS5570-Nortwind-EditedEdition\obj\Debug\YMS5570-Nortwind-EditedEdition.pdb
+C:\Projects\YMS5570-Nortwind-EditedEdition\YMS5570-Nortwind-EditedEdition\bin\Debug\EntityFramework.dll
+C:\Projects\YMS5570-Nortwind-EditedEdition\YMS5570-Nortwind-EditedEdition\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\YMS5570-Nortwind-EditedEdition\YMS5570-Nortwind-EditedEdition\bin\Debug\EntityFramework.xml
+C:\Projects\YMS5570-Nortwind-EditedEdition\YMS5570-Nortwind-EditedEdition\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\YMS5570-Nortwind-EditedEdition\YMS5570-Nortwind-EditedEdition\obj\Debug\YMS5570-Nortwind-EditedEdition.csprojAssemblyReference.cache
+C:\Projects\YMS5570-Nortwind-EditedEdition\YMS5570-Nortwind-EditedEdition\obj\Debug\YMS5570_Nortwind_EditedEdition.Form1.resources
+C:\Projects\YMS5570-Nortwind-EditedEdition\YMS5570-Nortwind-EditedEdition\obj\Debug\YMS5570-Nortwind-EditedEdition.csproj.CopyComplete
