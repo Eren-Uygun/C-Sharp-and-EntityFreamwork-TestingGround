@@ -62,6 +62,46 @@ namespace YMS_5570_LinQtoNorthwind
 
             dataGridView1.DataSource = result.ToList();
             #endregion
+            #region Region5
+            var result5 = from p in db.Categories
+                         where p.Description.Contains("s")
+                         select new
+                         {
+                             KategoriID = p.CategoryID,
+                             KategoriAdi = p.CategoryName,
+                             KategoriAciklama = p.Description
+
+
+                         };
+
+            dataGridView1.DataSource = result5.ToList();
+
+            #endregion
+            #region Region6
+            var result6 = from p in db.Customers
+                          where p.ContactTitle.Contains("Owner")
+                          select new
+                          {
+                              MusteriAdi = p.ContactName,
+                              Durum = p.ContactTitle,
+                              Sirket = p.CompanyName
+                          };
+            dataGridView1.DataSource = result6.ToList();
+            #endregion
+            #region Region7
+            var Result7 = from p in db.Suppliers
+                          select new
+                          {
+                              TedarikciSirketi = p.CompanyName,
+                              TedarikciAdi = p.ContactName,
+                              TedarikciTelefon = p.Phone,
+                              TedarikciAdres = p.Address,
+                              TedarikciSehir = p.City,
+                              TedarikciUlke = p.Country
+                          };
+            dataGridView1.DataSource = Result7.ToList();
+            #endregion
+
 
         }
 
@@ -69,5 +109,7 @@ namespace YMS_5570_LinQtoNorthwind
         {
             
         }
+
+
     }
 }

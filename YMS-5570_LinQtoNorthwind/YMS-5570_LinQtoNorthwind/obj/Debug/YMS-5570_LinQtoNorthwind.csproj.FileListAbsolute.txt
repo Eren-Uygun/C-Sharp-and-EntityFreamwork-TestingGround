@@ -12,3 +12,17 @@ C:\Projects\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\obj\Debug\YMS-5570
 C:\Projects\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\obj\Debug\YMS-5570_LinQtoNorthwind.csproj.CopyComplete
 C:\Projects\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\obj\Debug\YMS-5570_LinQtoNorthwind.exe
 C:\Projects\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\obj\Debug\YMS-5570_LinQtoNorthwind.pdb
+C:\Projects\GitHub-Storage\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\bin\Debug\YMS-5570_LinQtoNorthwind.exe.config
+C:\Projects\GitHub-Storage\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\bin\Debug\YMS-5570_LinQtoNorthwind.exe
+C:\Projects\GitHub-Storage\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\bin\Debug\YMS-5570_LinQtoNorthwind.pdb
+C:\Projects\GitHub-Storage\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\bin\Debug\EntityFramework.dll
+C:\Projects\GitHub-Storage\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\GitHub-Storage\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\bin\Debug\EntityFramework.xml
+C:\Projects\GitHub-Storage\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\GitHub-Storage\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\obj\Debug\YMS-5570_LinQtoNorthwind.csprojAssemblyReference.cache
+C:\Projects\GitHub-Storage\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\obj\Debug\YMS_5570_LinQtoNorthwind.Form1.resources
+C:\Projects\GitHub-Storage\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\obj\Debug\YMS_5570_LinQtoNorthwind.Properties.Resources.resources
+C:\Projects\GitHub-Storage\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\obj\Debug\YMS-5570_LinQtoNorthwind.csproj.GenerateResource.cache
+C:\Projects\GitHub-Storage\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\obj\Debug\YMS-5570_LinQtoNorthwind.csproj.CopyComplete
+C:\Projects\GitHub-Storage\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\obj\Debug\YMS-5570_LinQtoNorthwind.exe
+C:\Projects\GitHub-Storage\YMS-5570_LinQtoNorthwind\YMS-5570_LinQtoNorthwind\obj\Debug\YMS-5570_LinQtoNorthwind.pdb
