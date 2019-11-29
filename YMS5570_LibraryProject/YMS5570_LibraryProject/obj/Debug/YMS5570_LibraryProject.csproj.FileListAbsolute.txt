@@ -1,0 +1,115 @@
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe.config
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.pdb
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.dll
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.xml
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csprojAssemblyReference.cache
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.Properties.Resources.resources
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.GenerateResource.cache
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CopyComplete
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.exe
+C:\Users\Burak\source\repos\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.pdb
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe.config
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.pdb
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.dll
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.xml
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csprojAssemblyReference.cache
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddCategoryPage.resources
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.Properties.Resources.resources
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.GenerateResource.cache
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CopyComplete
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.exe
+C:\Users\Burak\Dropbox\YMS5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.pdb
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe.config
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.pdb
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.dll
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.xml
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csprojAssemblyReference.cache
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddAppUser.resources
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddCategoryPage.resources
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.Properties.Resources.resources
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.GenerateResource.cache
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CoreCompileInputs.cache
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CopyComplete
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.exe
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.pdb
+E:\YMS-5570\Data Access\Etüt\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddBooksPage.resources
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe.config
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.pdb
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.dll
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.xml
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csprojAssemblyReference.cache
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddAppUser.resources
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddBooksPage.resources
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddCategoryPage.resources
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.Properties.Resources.resources
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.GenerateResource.cache
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CoreCompileInputs.cache
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CopyComplete
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.exe
+C:\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.pdb
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe.config
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.pdb
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.dll
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.dll
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.xml
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.xml
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csprojAssemblyReference.cache
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddAppUser.resources
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddBooksPage.resources
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddCategoryPage.resources
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.Properties.Resources.resources
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.GenerateResource.cache
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CoreCompileInputs.cache
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CopyComplete
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.exe
+E:\YMS-5570\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.pdb
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe.config
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.pdb
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.dll
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.dll
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.xml
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.xml
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddAppUser.resources
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddBooksPage.resources
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddCategoryPage.resources
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.Properties.Resources.resources
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.GenerateResource.cache
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CopyComplete
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.exe
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.pdb
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csprojAssemblyReference.cache
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.LoginScreen.resources
+D:\Projeler\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.MainMenu.resources
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe.config
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.exe
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\YMS5570_LibraryProject.pdb
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.dll
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.xml
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csprojAssemblyReference.cache
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddAppUser.resources
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.AddCategoryPage.resources
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.LoginScreen.resources
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.Properties.Resources.resources
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.GenerateResource.cache
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.csproj.CopyComplete
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.exe
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.pdb
+C:\Projects\YMS5570_LibraryProject\YMS5570_LibraryProject\obj\Debug\YMS5570_LibraryProject.btnCategory.resources
